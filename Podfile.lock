@@ -1,0 +1,28 @@
+PODS:
+  - CoreGPX (0.9.2)
+  - MapCache (0.10.0)
+
+DEPENDENCIES:
+  - CoreGPX (from `https://github.com/vincentneo/CoreGPX.git`)
+  - MapCache (~> 0.10.0)
+
+SPEC REPOS:
+  trunk:
+    - MapCache
+
+EXTERNAL SOURCES:
+  CoreGPX:
+    :git: https://github.com/vincentneo/CoreGPX.git
+
+CHECKOUT OPTIONS:
+  CoreGPX:
+    :commit: 7ba4a240a9dfa20e0a2746febc7afdb972f49f78
+    :git: https://github.com/vincentneo/CoreGPX.git
+
+SPEC CHECKSUMS:
+  CoreGPX: b2b2744f5542447c287d96c0e14a755abc65f6b7
+  MapCache: d5954fb8dd61e3bcd579d65c2b7b12916feaf975
+
+PODFILE CHECKSUM: a49d54b8068c8884eb56aab1266ae259e1903a0f
+
+COCOAPODS: 1.14.3
